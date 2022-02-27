@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eighteene propositions by way of questions from the high court of Parliament concerning the multitude of popish recusants now in England by their continuall treachery to the state, and welfare of the kingdome, being enemies to the good of the common-wealth. Directed to the judges of the land, with their learned resolutions unto the said questions according to the lawes of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83758</idno>
+            <idno type="STC">Wing E264</idno>
+            <idno type="STC">Thomason E124_5</idno>
+            <idno type="STC">ESTC R16967</idno>
+            <idno type="EEBO-CITATION">99860124</idno>
+            <idno type="PROQUEST">99860124</idno>
+            <idno type="VID">112231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112231)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eighteene propositions by way of questions from the high court of Parliament concerning the multitude of popish recusants now in England by their continuall treachery to the state, and welfare of the kingdome, being enemies to the good of the common-wealth. Directed to the judges of the land, with their learned resolutions unto the said questions according to the lawes of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Watson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob:22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112231:1" rendition="simple:additions"/>
+            <p>
+               <hi>Eighteene</hi> PROPOSITIONS by way of Queſtions from the high Court of Parliament concerning the multitude of Popiſh Recuſants now in <hi>England</hi> by their continuall Treachery to the State, and welfare of the Kingdome, being enemies to the good of the Common-wealth.</p>
+            <p>Directed to the Iudges of the Land, with their learned Reſolutions unto the ſaid Queſtions according to the Lawes of <hi>England.</hi>
+            </p>
+            <p>Printed at London for <hi>Iohn Watſon,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112231:2"/>
+            <pb facs="tcp:112231:2"/>
+            <head>
+               <hi>Queſtions</hi> From the High Court of Par<g ref="char:EOLhyphen"/>liament to the Iudges concerning Po<g ref="char:EOLhyphen"/>piſh Recuſants, together with the Iudges Reſolutions to the ſame.</head>
+            <div n="1" type="question_and_resolution">
+               <div n="1" type="question">
+                  <head>1 Queſtion.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>F a Popiſh Recuſant dwell in a liberty, as in the Cinque-ports, what courſe ſhall be taken for his Indictment?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>Such a one may be indicted in the Kings Bench but upon ſuch an indictment there can be no Pro<g ref="char:EOLhyphen"/>clamation; he may alſo be indicted at the Quarter or generall Seſſi<g ref="char:EOLhyphen"/>ons, but at the Aſſizes, for the County is the beſt where the generall Goale delivery is, if there be any quarter Seſſions held within the liberty, he may be indicted there alſo.</p>
+               </div>
+            </div>
+            <div n="2" type="question_and_resolution">
+               <div n="2" type="question">
+                  <head>2 Queſtion.</head>
+                  <p>If hee dwell in a place out of all Pariſhes, or in a decayed pariſh?</p>
+               </div>
+               <div type="resolution">
+                  <p>In this Caſe he ought to reſort to the next Pariſh, or ſome other Pariſh Church, hee may be indicted of any Pariſh within their County.</p>
+               </div>
+            </div>
+            <div n="3" type="question_and_resolution">
+               <div n="3" type="question">
+                  <head>3 Queſtion.</head>
+                  <p>If the Officers of the Pariſh cannot learne the Chriſtian name, or ſur-name of any Recuſant, what is to be done?</p>
+               </div>
+               <div type="resolution">
+                  <pb n="4" facs="tcp:112231:3"/>
+                  <head>Reſol.</head>
+                  <p>If the Maſter of the Family will not diſcover the Chriſtian, or ſur-name of thoſe of his or their family as is fit, the Maſter or Miſtris ſhall be bound to their good behaviour, and it is fit the next Iuſtice of Peace to the place ſuſpected doe reſort thither to know the true names, and they may be indicted by ſuch names as they are known by, if other names be not found?</p>
+               </div>
+            </div>
+            <div n="4" type="question_and_resolution">
+               <div n="4" type="question">
+                  <head>4. Queſt.</head>
+                  <p>If any be indicted of Recuſancy, whether after indictment or be<g ref="char:EOLhyphen"/>fore committing the Iuſtices of Aſſize or Iuſtices of the Peace in their Seſſions cannot take knowledge of any conformity otherwiſe than upon their ſubmiſſion in open Court.</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſol.</head>
+                  <p>By the Statute of 23. <hi>Eliz.</hi> a Popiſh Recuſant may ſubmit him<g ref="char:EOLhyphen"/>ſelfe before the Biſhop before the Indictment, but after the indict<g ref="char:EOLhyphen"/>ment there can be no knowledge taken of any conformity, but by ſub<g ref="char:EOLhyphen"/>miſſion in perſon in open Court.</p>
+               </div>
+            </div>
+            <div n="5" type="question_and_resolution">
+               <div n="5" type="question">
+                  <head>5 Queſt.</head>
+                  <p>If any man happen to be indicted of Popiſh Recuſancy, which is in truth a Browniſt or Seperatiſt, what is to be done in ſuch a Caſe, or whether the Record doe bind till conformity?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>If ſuch be indicted as a Popiſh Recuſant there is no avoyding it but by conformity, but if the indictment be generall and <hi>Contra formam ſtatuti,</hi> the ſtatute of 29. <hi>Eliz.</hi> or denyeth ſeverall puniſh<g ref="char:EOLhyphen"/>ments for them.</p>
+               </div>
+            </div>
+            <div n="6" type="question_and_resolution">
+               <div n="6" type="question">
+                  <head>6. Queſtion.</head>
+                  <p>If a Recuſant indicted and proclaymed would traverſe the Indictment whether muſt he not firſt yeild his body to the She<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe and tender his traverſe in perſon and tender it in cuſtody?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>No traverſe ought to be admitted unleſſe the party indicted
+<pb n="5" facs="tcp:112231:3"/> yeeld his or her body to the Sheriffe and appeare in perſon in cuſtodie.</p>
+               </div>
+            </div>
+            <div n="7" type="question_and_resolution">
+               <div n="7" type="question">
+                  <head>7. Queſt.</head>
+                  <p>If for abſence for a month and he traverſe for that time, if the traverſe paſſe for the King whether that be not a conviction whereupon the King ſhall have twenty pound the moneth, or two parts of the Recuſants lands, as well as if the Recuſant bee proclaimed and make default?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>If the traverſe paſſe for the King upon evidence or by default, or if upon appearance hee will not plead and ſee judgement be given by <hi>nihil dicit.</hi> This is conviction as if it had beene upon proclamation.</p>
+               </div>
+            </div>
+            <div n="8" type="question_and_resolution">
+               <div n="8" type="question">
+                  <head>8. Queſtion.</head>
+                  <p>Whether upon the traverſe if it come to a tryall, it ſhall bee ſufficient evidence to prove that the Recuſant went once or twice to Church, or whether hee muſt not prove hee hath gone to his Pariſh Church, and hath gone every Sunday accor<g ref="char:EOLhyphen"/>ding to the ſtatute of <hi>Prion Elizabeth,</hi> all the latter ſtatutes referring to that Statute?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>The comming to Church muſt be to his Pariſh Church, &amp;c. and it muſt be once in every moneth to ſave the 20. pound the moneth or 2. parts of the Lands but it muſt be every Sunday to ſave them 12. pence the Sunday.</p>
+               </div>
+            </div>
+            <div n="9" type="question_and_resolution">
+               <div n="9" type="question">
+                  <head>9. Queſtion.</head>
+                  <p>Whether if a Recuſant be once convicted, and conform him<g ref="char:EOLhyphen"/>ſelfe and his conformity be pleaded and judgment be given for that Recuſant, and after hee fall into the rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pſe by for bearing to goe to Church, there need not any new indictment of conviction?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reaſon.</head>
+                  <p>He may be newly indicted at the aſſine; or Seſſions, and then
+<pb n="6" facs="tcp:112231:4"/> beſt to be ſpeciall recyting the conformity and the relapſe, and it may be alſo by pleaſing in the Exchequer, whereupon iſſue may be joyned.</p>
+               </div>
+            </div>
+            <div n="10" type="question_and_resolution">
+               <div n="10" type="question">
+                  <head>10. Queſt.</head>
+                  <p>Whether if ſuch a Recuſant convicted and relapſing dye before any queſtioning of him before his death, the forfeiture incurring in his life time be not wholy ruined, &amp; that the arrearages may not wholy be put into charge, and levyed upon his lands or goods or both, who dyed in relapſe, or whether there muſt be a <hi>Scire Fac.</hi> againſt the Executors and Tenants?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>This is left to the courſe of the Exchequer, but an heire may conform and avoid it.</p>
+               </div>
+            </div>
+            <div n="11" type="question_and_resolution">
+               <div n="11" type="question">
+                  <head>11. Queſt.</head>
+                  <p>If one obtaine a grant under the great Seal, of any Recuſants lands or goods, and that the Recuſant buy in that grant to him<g ref="char:EOLhyphen"/>ſelfe or to his uſe, though originally it was granted to his uſe, whether this graunt be void, ſpecially after a new conviction of the ſame party?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>If a Recuſant purchaſe in ſuch a grant upon a new inquiſition, or by a Bill in the Exchequer Chamber theſe are made ſubject to a new ſeizure, as of lands newly purchaſed by a Recuſant.</p>
+               </div>
+            </div>
+            <div n="12" type="question_and_resolution">
+               <div n="12" type="question">
+                  <head>12. Queſt.</head>
+                  <p>If a Recuſant be indicted and proclaymed, and before convi<g ref="char:EOLhyphen"/>ction he yield up his body and plead not; what ſhall be done; and whether a <hi>nihil dicit</hi> may not be entred?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>In this caſe a <hi>nihil dicit</hi> ſhall be entred if he will not plead af<g ref="char:EOLhyphen"/>ter appearance, and that will be a conviction at the common Law.</p>
+               </div>
+            </div>
+            <div n="13" type="question_and_resolution">
+               <div n="13" type="question">
+                  <head>13. Queſt.</head>
+                  <p>Whether if after proclamation a Recuſant yield his body to
+<pb n="7" facs="tcp:112231:4"/> the Sheriffe and plead what time the traverſe ought to be tryed.</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>It ought to be tryed preſently if the time we will permit, o<g ref="char:EOLhyphen"/>therwiſe as ſoon as poſſibly can be.</p>
+               </div>
+            </div>
+            <div n="14" type="question_and_resolution">
+               <div n="14" type="question">
+                  <head>14. Queſt.</head>
+                  <p>When a Recuſant is convicted, and he imbeazeleth his goods before the commisſion be ſent forth; or before it be ſet upon to enquire of his goods, what courſe may be taken to prevent it?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>To prevent this, the Sheriffe ſhall do well by himſelfe or his Bayliffe to put the owners out of poſſeſſion to ſeize the goods of keeping them ſafely, and enquire of them after.</p>
+               </div>
+            </div>
+            <div n="15" type="question_and_resolution">
+               <div n="15" type="question">
+                  <head>15. Quest.</head>
+                  <p>If a married woman be convicted and her husband dye, whe<g ref="char:EOLhyphen"/>ther ſhe be not lyable to al the arrearages from the conviction.</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution</head>
+                  <p>Shee is lyable to the whole arrearages if her husband, did not pay any part of the penalty for her during the coverture.</p>
+               </div>
+            </div>
+            <div n="16" type="question_and_resolution">
+               <div n="16" type="question">
+                  <head>16. Queſt.</head>
+                  <p>Whether if ſhe after become covert and marry againe, the ſecond husband be not lyable to the payment of all the arreara<g ref="char:EOLhyphen"/>ges, and his own goods lyable thereunto?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſolution.</head>
+                  <p>If her eſtate be not ſeized before her ſecond husbands marri<g ref="char:EOLhyphen"/>age, the ſecond husband is lyable to pay al the arrearages of 20. pound the moneth before his ſecond marriage.</p>
+               </div>
+            </div>
+            <div n="17" type="question_and_resolution">
+               <div n="17" type="question">
+                  <head>17. Queſt.</head>
+                  <p>If a Recuſant ſell, give, or deviſe Lands, whether the Con<g ref="char:EOLhyphen"/>formity of Heire ſhall priviledhe the Lands of any?</p>
+               </div>
+               <div type="resolution">
+                  <pb n="8" facs="tcp:112231:5"/>
+                  <head>Reſolution.</head>
+                  <p>The words of the Statute extend onely to the Heire, and the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchaſer is not diſcharged unleſſe he pay all the Arrearages.</p>
+               </div>
+            </div>
+            <div n="18" type="question_and_resolution">
+               <div n="18" type="question">
+                  <head>18. Queſt.</head>
+                  <p>Whether a feme Covert convicted which by the Statute of 17. 1. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>obi is to be committed without Baile, unles her husband pay 20. l. a moneth may by warrant be taken out of her houſe and carried to priſon, or what courſe is to be taken for her commitment?</p>
+               </div>
+               <div type="resolution">
+                  <head>Reſol.</head>
+                  <p>She may be taken out of her houſe, and if the Sheriffe or other officer knock at the doore, it being ſhut, and they will not open it, they may breake it open.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>The Papiſts that are lurking in this Common-wealth can never be too much diſcovered, for as they walke in the miſts of igno<g ref="char:EOLhyphen"/>rance, ſo likewiſe they are allwaies contriving ſome ſecret darke plotts, Hell and they conſpire to plant againe their ſuperſtition, or elſe they cheriſh a hope by engaging this Kingdome into a civill warre, to reduce a Monarchy into an Antipathy againſt the Proteſt<g ref="char:EOLhyphen"/>ant Religion, their plotts are ſufficient witneſſes of their intentions continued ſince eighty eight, and now breaking forth into many pla<g ref="char:EOLhyphen"/>ces, eſpecially inthe Northerne parts. Murder and bloody deſignes againſt the Proteſtants are Canoniz'd by them as meritorious Acts. It behooves therefore all well affected perſons not only to know their perſons, and to diſcover their abiding, but alſo to be informed how and in what manner they may by legall proceedings attach and bring them to deſerved puniſhment, which by theſe queſtions pro<g ref="char:EOLhyphen"/>pounded from the high Court of Parliament, and reſolved by the Iudges may evidently appeare, as being grounded upon Law and giving ſatisfaction in ſeverall caſes againſt Popiſh Recuſants, and neceſſary to informe the Iudgement of all well affected perſons in ſuch points.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
